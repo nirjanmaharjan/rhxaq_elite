@@ -1,0 +1,5 @@
+{
+  "status": "pending",
+  "allowed_next": ["in_progress", "completed", "cancelled"]
+}
+
